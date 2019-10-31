@@ -1,2 +1,2 @@
 # heygo
-my golang lab
+golang utils
